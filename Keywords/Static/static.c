@@ -1,8 +1,9 @@
+#include <stdio.h>
+
 void increaseNormal(void);
 void increaseStatic(void);
 
 int main() {
-
     printf("---------------\n");
     printf("Normal Variable\n");
     printf("---------------\n");
